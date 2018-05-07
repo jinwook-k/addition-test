@@ -1,4 +1,10 @@
-# addition-test
+# Test it Yourself
+Clone the repo.  
+Go to the directory `wasm-add/test`  
+`npm install && npm run serve`   
+Go to `localhost:8080` and `inspect console`
+
+## addition-test
 This holds the code for the npm packages code and testing code
 
 ## Test Code
