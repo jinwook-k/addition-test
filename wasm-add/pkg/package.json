@@ -1,0 +1,1 @@
+{"name":"@jinwookkim/wasm-add","description":"Code used to demonstrate how to use wasm-pack","version":"0.1.10","license":"MIT/Apache-2.0","repository":{"type":"git","url":"https://github.com/mgattozzi/wasm-add"},"files":["wasm_add.js","wasm_add_bg.wasm"]}

@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "serve": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@jinwookkim/wasm-add": "^0.1.10",
+    "@jinwookkim/npm-add": "^1.0.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.10",
+    "webpack-dev-server": "^3.1.0"
+  }
+}

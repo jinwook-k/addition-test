@@ -1,0 +1,1 @@
+This is my Wasm-Pack demo test pacakge. 
